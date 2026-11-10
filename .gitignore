@@ -1,0 +1,20 @@
+# Generated data (regenerable via python ingest.py + python crop_model.py)
+data/chromadb/
+data/models/
+data/logs/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
