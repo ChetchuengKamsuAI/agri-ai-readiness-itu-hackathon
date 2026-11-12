@@ -26,6 +26,7 @@ Three AI agents process soil readings in sequence:
 
 ```bash
 git clone https://github.com/ChetchuengKamsuAI/agri-ai-readiness-itu-hackathon
+cd agri-ai-readiness-itu-hackathon
 pip install -r requirements.txt
 python run_demo.py
 ```
